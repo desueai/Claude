@@ -1,0 +1,301 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "paths": "Paths",
+    "diagnostic": "Diagnóstico",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "cta": "Hacer diagnóstico"
+  },
+  "hero": {
+    "headline1": "Tu carrera,",
+    "headline2": "con intención.",
+    "headline3": "Tu camino,",
+    "headline4": "con claridad.",
+    "subtitle": "Descubre tu path de carrera ideal, diagnostica tu posición actual y accede a las herramientas que necesitas para crecer con propósito.",
+    "cta1": "Hacer mi diagnóstico",
+    "cta2": "Ver los paths de carrera",
+    "badge": "Para profesionales · Para líderes de equipo"
+  },
+  "talentmap": {
+    "label": "Framework",
+    "title": "¿Qué es un Talent Map?",
+    "description": "El Talent Map es un marco de referencia para entender los tres grandes caminos de desarrollo profesional y tomar decisiones de carrera con claridad e intención. No es un test de personalidad — es una herramienta de diagnóstico que te ayuda a identificar dónde estás, hacia dónde vas y qué necesitas desarrollar para llegar ahí.",
+    "benefit1Title": "Para ti como profesional",
+    "benefit1Desc": "Claridad sobre qué path seguir, qué competencias desarrollar y cómo comunicar tu valor en el mercado.",
+    "benefit2Title": "Para ti como líder",
+    "benefit2Desc": "Un lenguaje común para mapear el talento de tu equipo y tener conversaciones de carrera más significativas.",
+    "benefit3Title": "Para tu organización",
+    "benefit3Desc": "Un marco de referencia para evaluaciones, planes de desarrollo y decisiones de ascenso basadas en competencias reales.",
+    "stat": "Un framework usado por líderes de RRHH en toda LATAM"
+  },
+  "paths": {
+    "label": "Los tres caminos",
+    "title": "¿Cuál es tu path?",
+    "subtitle": "Tres rutas de desarrollo profesional, cada una con sus propias fortalezas, competencias y formas de generar valor.",
+    "youAreThisIf": "Eres de este path si...",
+    "keyCompetencies": "Competencias clave",
+    "typicalRoles": "Roles típicos",
+    "leadership": {
+      "name": "Liderazgo",
+      "description": "Tu energía está en las personas. Encuentras satisfacción en ver crecer a otros, construir equipos de alto rendimiento y guiar a través de la visión y la influencia.",
+      "signals": [
+        "Disfrutas más de desarrollar a otros que de hacer el trabajo tú mismo",
+        "Sientes energía después de conversaciones difíciles con tu equipo",
+        "Piensas naturalmente en términos de equipo y visión compartida",
+        "Tu mayor logro son las personas que has ayudado a crecer",
+        "La política y los stakeholders no te asustan — los navegas"
+      ],
+      "competencies": ["Coaching y feedback", "Pensamiento estratégico", "Comunicación ejecutiva", "Gestión del cambio", "Influencia organizacional"],
+      "roles": ["Director / VP", "Head of Department", "C-Suite", "Team Lead", "People Manager"]
+    },
+    "pm": {
+      "name": "Project Manager",
+      "description": "Tu energía está en la ejecución. Conviertes la visión en planes concretos, coordinas múltiples piezas móviles y te satisface ver que las cosas realmente pasan.",
+      "signals": [
+        "Sientes incomodidad cuando no hay un plan claro o una fecha de entrega",
+        "Naturalmente mapeas tareas, dependencias y riesgos en tu mente",
+        "Disfrutas de coordinar a personas con objetivos diferentes hacia un mismo fin",
+        "Te frustras cuando los proyectos se desvían sin nadie que los retome",
+        "La organización y la estructura te dan energía, no te agotan"
+      ],
+      "competencies": ["Gestión de proyectos", "Comunicación con stakeholders", "Gestión de riesgos", "Metodologías ágiles", "Planificación y priorización"],
+      "roles": ["Project Manager", "Program Manager", "Scrum Master", "PMO Lead", "Operations Manager"]
+    },
+    "specialist": {
+      "name": "Especialista",
+      "description": "Tu energía está en la profundidad. Encuentras satisfacción en dominar un área de conocimiento, resolver problemas complejos y ser la referencia más confiable en tu campo.",
+      "signals": [
+        "Prefieres entender algo a fondo antes de opinar o actuar",
+        "Sientes frustración cuando tienes que ser generalista sin tiempo de profundizar",
+        "Las personas acuden a ti cuando necesitan la respuesta más fundamentada",
+        "Tu mayor satisfacción es resolver un problema difícil que otros no pudieron",
+        "El aprendizaje continuo no es una obligación — es un placer"
+      ],
+      "competencies": ["Expertise técnico profundo", "Resolución de problemas complejos", "Investigación y análisis", "Transferencia de conocimiento", "Pensamiento crítico"],
+      "roles": ["Senior Specialist", "Principal / Staff Engineer", "Subject Matter Expert", "Consultor independiente", "Researcher / Analyst"]
+    }
+  },
+  "comparison": {
+    "label": "Comparativa",
+    "title": "¿En qué se diferencian?",
+    "subtitle": "Cada path tiene un perfil de competencias distinto. Visualiza las diferencias para entender mejor cuál resuena contigo.",
+    "note": "Los paths no son excluyentes — puedes combinar competencias de más de uno. El diagnóstico te muestra tu perfil dominante.",
+    "dimensions": {
+      "people": "Orientación a personas",
+      "process": "Orientación a procesos",
+      "expertise": "Expertise técnico",
+      "strategy": "Pensamiento estratégico",
+      "ambiguity": "Gestión de ambigüedad",
+      "influence": "Influencia sin autoridad"
+    }
+  },
+  "diagnostic": {
+    "label": "Diagnóstico",
+    "title": "Descubre tu path",
+    "subtitle": "Dos herramientas para conocer tu perfil actual y entender qué competencias desarrollar.",
+    "quizTab": "Quiz de autoevaluación",
+    "checklistTab": "Checklist de competencias",
+    "quiz": {
+      "title": "Quiz de diagnóstico",
+      "description": "12 preguntas para identificar tu path dominante y tu segundo path.",
+      "question": "Pregunta",
+      "of": "de",
+      "next": "Siguiente",
+      "previous": "Anterior",
+      "finish": "Ver mi resultado",
+      "restart": "Hacer de nuevo",
+      "seeMyPlan": "Ver mi plan de 90 días",
+      "yourResult": "Tu resultado",
+      "dominantPath": "Path dominante",
+      "secondPath": "Segundo path",
+      "competenciesToDevelop": "Competencias a desarrollar"
+    },
+    "checklist": {
+      "title": "Checklist de competencias",
+      "description": "Evalúa tu nivel actual en cada competencia clave de cada path.",
+      "download": "Descargar PDF"
+    }
+  },
+  "resources": {
+    "label": "Recursos",
+    "title": "Guías y material de desarrollo",
+    "subtitle": "Recursos curados por Susana, organizados por path y tipo.",
+    "noResults": "No hay recursos para este filtro aún.",
+    "susanaRecommends": "Susana recomienda",
+    "levels": {
+      "basic": "Básico",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado"
+    },
+    "types": {
+      "book": "Libro",
+      "course": "Curso",
+      "template": "Template",
+      "podcast": "Podcast",
+      "article": "Artículo"
+    }
+  },
+  "talentMapVisual": {
+    "label": "Mapa visual",
+    "title": "Talent Map interactivo",
+    "subtitle": "Ubícate en el mapa según tu rol actual e identifica la distancia hacia cada path.",
+    "xAxis": "Alcance →",
+    "yAxis": "↑ Impacto",
+    "selectPosition": "Selecciona tu posición actual",
+    "yourPosition": "Tu posición actual",
+    "note": "Las zonas del mapa representan el perfil típico de cada path. Tu posición puede estar en la frontera entre dos paths."
+  },
+  "plan": {
+    "label": "Plan de acción",
+    "title": "Tu roadmap de 90 días",
+    "subtitle": "Convierte tu diagnóstico en acción concreta. Aquí tienes un plan de desarrollo mes a mes según tu path dominante.",
+    "month": "Mes",
+    "focus": "Enfoque",
+    "actions": "Acciones",
+    "resource": "Recurso recomendado",
+    "download": "Descargar mi plan",
+    "selectPath": "Selecciona el path para ver tu plan:"
+  },
+  "gap": {
+    "label": "Calculadora de brecha",
+    "title": "Calculadora de brecha de competencias",
+    "subtitle": "¿Qué tan lejos estás de tu path objetivo? Calcula la brecha en tiempo real.",
+    "step1": "Tu rol actual",
+    "step2": "Path objetivo",
+    "calculate": "Calcular mi brecha",
+    "recalculate": "Recalcular",
+    "seeResources": "Ver recursos para cerrar esta brecha",
+    "alreadyHave": "Ya tienes",
+    "developing": "En desarrollo",
+    "toDevelop": "Por desarrollar",
+    "distance": "Estás al",
+    "distanceFrom": "de distancia de este path",
+    "selectRole": "Selecciona tu rol actual",
+    "selectPath": "Selecciona el path objetivo"
+  },
+  "stories": {
+    "label": "Historias reales",
+    "title": "Historias de carrera",
+    "subtitle": "Personas reales que transitaron entre paths. Su camino puede inspirar el tuyo.",
+    "keyCompetency": "Competencia clave que desbloqueó el cambio",
+    "origin": "De:",
+    "destination": "Hacia:",
+    "viewAll": "Ver todas las historias"
+  },
+  "aiPlan": {
+    "label": "Plan con IA",
+    "title": "Tu plan personalizado con IA",
+    "subtitle": "Basado en tu diagnóstico y brecha, genera un plan de desarrollo único con la ayuda de inteligencia artificial.",
+    "completeQuizFirst": "Primero completa el quiz de diagnóstico para acceder a tu plan personalizado.",
+    "goToQuiz": "Ir al diagnóstico",
+    "profileSummary": "Tu perfil",
+    "dominantPath": "Path dominante",
+    "additionalContext": "Cuéntame más sobre tu situación",
+    "contextPlaceholder": "Ej: Tengo 5 años de experiencia en finanzas y quiero liderar equipos en el sector tecnológico...",
+    "generate": "Generar mi plan con IA",
+    "generating": "Susana está analizando tu perfil...",
+    "downloadPlan": "Descargar mi plan",
+    "goToResources": "Ir a recursos",
+    "error": "No pudimos generar tu plan en este momento. Aquí tienes el plan estándar para tu path:",
+    "month": "Mes",
+    "focus": "Enfoque",
+    "actions": "Acciones clave",
+    "finalAdvice": "Consejo final de Susana"
+  },
+  "newsletter": {
+    "label": "Newsletter",
+    "title": "Recibe insights de carrera directamente en tu inbox",
+    "subtitle": "Una reflexión útil cada quincena. Sin spam. Solo lo que realmente importa para tu desarrollo.",
+    "leadMagnet": "Descarga gratis: La guía completa de los 3 paths de carrera",
+    "namePlaceholder": "Tu nombre (opcional)",
+    "emailPlaceholder": "tu@email.com",
+    "consent": "Acepto recibir contenido de Intentional Career Path",
+    "cta": "Suscribirme y descargar la guía",
+    "success": "¡Listo! Revisa tu email para descargar la guía.",
+    "error": "Algo salió mal. Por favor intenta de nuevo."
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Reflexiones de carrera",
+    "subtitle": "Artículos de Susana sobre liderazgo, talento y desarrollo profesional.",
+    "readMore": "Leer más",
+    "readTime": "min de lectura",
+    "relatedPosts": "Artículos relacionados",
+    "backToBlog": "← Volver al blog"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "Soy Susana De Jesús",
+    "headline": "Creo que el talento necesita dirección, no solo motivación.",
+    "bio1": "Llevo más de una década trabajando con profesionales, líderes y equipos de recursos humanos ayudándoles a entender su talento y desarrollarlo con intención. He acompañado a cientos de personas en momentos de transición de carrera — y lo que más me ha enseñado este trabajo es que la claridad lo cambia todo.",
+    "bio2": "Nací con una curiosidad natural por las personas: por qué hacen lo que hacen, qué las motiva, qué las frena. Esa curiosidad me llevó al mundo del talento, y el talento me llevó a crear el framework de Intentional Career Path — una forma estructurada de entender los tres grandes caminos de desarrollo profesional.",
+    "bio3": "Hoy acompaño a profesionales individuales que quieren crecer con propósito, y a líderes y equipos de RRHH que quieren tener conversaciones de carrera más significativas con su talento.",
+    "credentials": [
+      "+10 años en desarrollo de talento y carrera",
+      "Acompañado a +200 profesionales en transiciones de carrera",
+      "Experiencia en sectores: tecnología, finanzas, retail y servicios",
+      "Conferencista en HR Summit LATAM 2025"
+    ],
+    "philosophy": [
+      {
+        "title": "El talento sin dirección se desperdicia",
+        "desc": "No basta con ser bueno en algo. Necesitas saber hacia dónde vas y por qué."
+      },
+      {
+        "title": "La claridad es una habilidad, no un regalo",
+        "desc": "Puedes aprender a conocerte mejor y a tomar decisiones de carrera más intencionales."
+      },
+      {
+        "title": "El desarrollo es un proceso, no un destino",
+        "desc": "No se trata de llegar a ningún lado — se trata de crecer cada día con propósito."
+      }
+    ],
+    "ctaLinkedIn": "Conectar en LinkedIn",
+    "ctaContact": "Escribirme"
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "¿Hablamos?",
+    "subtitle": "Ya sea para una consultoría individual, un taller de equipo o simplemente para compartir ideas.",
+    "name": "Nombre completo",
+    "email": "Email",
+    "type": "Tipo de consulta",
+    "message": "Mensaje",
+    "consent": "Acepto recibir contenido de Intentional Career Path",
+    "send": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado! Te responderé en los próximos 2–3 días hábiles.",
+    "error": "Algo salió mal. Por favor escríbeme directamente a través de LinkedIn.",
+    "types": {
+      "consulting": "Consultoría individual",
+      "workshop": "Taller de equipo",
+      "collaboration": "Colaboración",
+      "other": "Otro"
+    },
+    "validation": {
+      "nameRequired": "El nombre es requerido",
+      "emailRequired": "El email es requerido",
+      "emailInvalid": "Por favor ingresa un email válido",
+      "messageRequired": "El mensaje es requerido",
+      "messageMin": "El mensaje debe tener al menos 20 caracteres",
+      "consentRequired": "Debes aceptar los términos para continuar"
+    }
+  },
+  "footer": {
+    "tagline": "Tu carrera, con intención.",
+    "quickLinks": "Links rápidos",
+    "followUs": "Sígueme",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de uso",
+    "copyright": "© 2026 Intentional Career Path · Susana De Jesús. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "seeMore": "Ver más",
+    "close": "Cerrar",
+    "back": "Volver"
+  }
+}

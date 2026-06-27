@@ -1,0 +1,11 @@
+export const BRAND_NAME = 'Intentional Career Path';
+export const AUTHOR_NAME = 'Susana De Jesús';
+export const HANDLE = '@intentional_careerpath';
+export const LINKEDIN_URL = 'https://linkedin.com/in/susana-de-jesus';
+export const INSTAGRAM_URL = 'https://instagram.com/intentional_careerpath';
+export const DOMAIN = 'intentionalcareerpath.com';
+export const COPYRIGHT_YEAR = '2026';
+export const TAGLINE_ES = 'Tu carrera, con intención.';
+export const TAGLINE_EN = 'Your career, with intention.';
+export const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+export const MAILCHIMP_URL = 'https://YOUR_MAILCHIMP_FORM_URL';
