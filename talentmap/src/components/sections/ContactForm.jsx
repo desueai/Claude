@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Send, CheckCircle2, AlertCircle } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
-import { FORMSPREE_ENDPOINT } from '@/config/brand';
+import { supabase } from '@/lib/supabase';
 
 export function ContactForm() {
   const { t } = useTranslation();
@@ -35,13 +35,15 @@ export function ContactForm() {
     if (Object.keys(errs).length > 0) { setErrors(errs); return; }
     setStatus('loading');
     try {
-      const res = await fetch(FORMSPREE_ENDPOINT, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: form.name, email: form.email, type: form.type, message: form.message }),
+      const { error } = await supabase.from('contact_submissions').insert({
+        name: form.name,
+        email: form.email,
+        service: form.type || null,
+        message: form.message,
+        consent: form.consent,
       });
-      if (res.ok) { setStatus('success'); }
-      else { setStatus('error'); }
+      if (error) throw error;
+      setStatus('success');
     } catch {
       setStatus('error');
     }

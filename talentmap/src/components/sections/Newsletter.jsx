@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Mail, Download, CheckCircle2 } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
-import { MAILCHIMP_URL } from '@/config/brand';
+import { supabase } from '@/lib/supabase';
 
 export function Newsletter() {
   const { t } = useTranslation();
@@ -18,14 +18,12 @@ export function Newsletter() {
     if (!email || !consent) return;
     setStatus('loading');
     try {
-      await fetch(MAILCHIMP_URL, {
-        method: 'POST',
-        body: JSON.stringify({ email, name }),
-        headers: { 'Content-Type': 'application/json' },
-      });
+      const { error } = await supabase.from('newsletter_subscribers').insert({ email });
+      // Ignore duplicate email error — treat as success
+      if (error && error.code !== '23505') throw error;
       setStatus('success');
     } catch {
-      setStatus('success'); // In placeholder mode, show success anyway
+      setStatus('error');
     }
   };
 
