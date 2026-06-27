@@ -1,0 +1,301 @@
+{
+  "nav": {
+    "home": "Home",
+    "paths": "Paths",
+    "diagnostic": "Diagnostic",
+    "resources": "Resources",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Take diagnostic"
+  },
+  "hero": {
+    "headline1": "Your career,",
+    "headline2": "with intention.",
+    "headline3": "Your path,",
+    "headline4": "with clarity.",
+    "subtitle": "Discover your ideal career path, diagnose your current position and access the tools you need to grow with purpose.",
+    "cta1": "Take my diagnostic",
+    "cta2": "See career paths",
+    "badge": "For professionals · For team leaders"
+  },
+  "talentmap": {
+    "label": "Framework",
+    "title": "What is a Talent Map?",
+    "description": "The Talent Map is a framework for understanding the three major paths of professional development and making career decisions with clarity and intention. It's not a personality test — it's a diagnostic tool that helps you identify where you are, where you're going and what you need to develop to get there.",
+    "benefit1Title": "For you as a professional",
+    "benefit1Desc": "Clarity on which path to follow, what competencies to develop and how to communicate your value in the market.",
+    "benefit2Title": "For you as a leader",
+    "benefit2Desc": "A common language to map your team's talent and have more meaningful career conversations.",
+    "benefit3Title": "For your organization",
+    "benefit3Desc": "A reference framework for evaluations, development plans and promotion decisions based on real competencies.",
+    "stat": "A framework used by HR leaders across LATAM"
+  },
+  "paths": {
+    "label": "The three paths",
+    "title": "What's your path?",
+    "subtitle": "Three routes of professional development, each with its own strengths, competencies and ways of creating value.",
+    "youAreThisIf": "You're this path if...",
+    "keyCompetencies": "Key competencies",
+    "typicalRoles": "Typical roles",
+    "leadership": {
+      "name": "Leadership",
+      "description": "Your energy is in people. You find satisfaction in seeing others grow, building high-performance teams and guiding through vision and influence.",
+      "signals": [
+        "You enjoy developing others more than doing the work yourself",
+        "You feel energized after difficult conversations with your team",
+        "You naturally think in terms of team and shared vision",
+        "Your greatest achievement is the people you've helped grow",
+        "Politics and stakeholders don't scare you — you navigate them"
+      ],
+      "competencies": ["Coaching & feedback", "Strategic thinking", "Executive communication", "Change management", "Organizational influence"],
+      "roles": ["Director / VP", "Head of Department", "C-Suite", "Team Lead", "People Manager"]
+    },
+    "pm": {
+      "name": "Project Manager",
+      "description": "Your energy is in execution. You turn vision into concrete plans, coordinate multiple moving parts and feel satisfied when things actually happen.",
+      "signals": [
+        "You feel uncomfortable when there's no clear plan or delivery date",
+        "You naturally map tasks, dependencies and risks in your mind",
+        "You enjoy coordinating people with different objectives toward a common goal",
+        "You get frustrated when projects derail without anyone to get them back on track",
+        "Organization and structure give you energy, they don't exhaust you"
+      ],
+      "competencies": ["Project management", "Stakeholder communication", "Risk management", "Agile methodologies", "Planning & prioritization"],
+      "roles": ["Project Manager", "Program Manager", "Scrum Master", "PMO Lead", "Operations Manager"]
+    },
+    "specialist": {
+      "name": "Specialist",
+      "description": "Your energy is in depth. You find satisfaction in mastering an area of knowledge, solving complex problems and being the most reliable reference in your field.",
+      "signals": [
+        "You prefer to understand something thoroughly before giving an opinion or acting",
+        "You feel frustrated when you have to be a generalist without time to go deep",
+        "People come to you when they need the most well-founded answer",
+        "Your greatest satisfaction is solving a difficult problem others couldn't",
+        "Continuous learning is not an obligation — it's a pleasure"
+      ],
+      "competencies": ["Deep technical expertise", "Complex problem solving", "Research & analysis", "Knowledge transfer", "Critical thinking"],
+      "roles": ["Senior Specialist", "Principal / Staff Engineer", "Subject Matter Expert", "Independent Consultant", "Researcher / Analyst"]
+    }
+  },
+  "comparison": {
+    "label": "Comparison",
+    "title": "How do they differ?",
+    "subtitle": "Each path has a distinct competency profile. Visualize the differences to better understand which one resonates with you.",
+    "note": "Paths are not mutually exclusive — you can combine competencies from more than one. The diagnostic shows your dominant profile.",
+    "dimensions": {
+      "people": "People orientation",
+      "process": "Process orientation",
+      "expertise": "Technical expertise",
+      "strategy": "Strategic thinking",
+      "ambiguity": "Managing ambiguity",
+      "influence": "Influence without authority"
+    }
+  },
+  "diagnostic": {
+    "label": "Diagnostic",
+    "title": "Discover your path",
+    "subtitle": "Two tools to know your current profile and understand what competencies to develop.",
+    "quizTab": "Self-assessment quiz",
+    "checklistTab": "Competency checklist",
+    "quiz": {
+      "title": "Diagnostic quiz",
+      "description": "12 questions to identify your dominant path and your second path.",
+      "question": "Question",
+      "of": "of",
+      "next": "Next",
+      "previous": "Previous",
+      "finish": "See my result",
+      "restart": "Take again",
+      "seeMyPlan": "See my 90-day plan",
+      "yourResult": "Your result",
+      "dominantPath": "Dominant path",
+      "secondPath": "Second path",
+      "competenciesToDevelop": "Competencies to develop"
+    },
+    "checklist": {
+      "title": "Competency checklist",
+      "description": "Evaluate your current level in each key competency for each path.",
+      "download": "Download PDF"
+    }
+  },
+  "resources": {
+    "label": "Resources",
+    "title": "Guides & development material",
+    "subtitle": "Resources curated by Susana, organized by path and type.",
+    "noResults": "No resources for this filter yet.",
+    "susanaRecommends": "Susana recommends",
+    "levels": {
+      "basic": "Basic",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "types": {
+      "book": "Book",
+      "course": "Course",
+      "template": "Template",
+      "podcast": "Podcast",
+      "article": "Article"
+    }
+  },
+  "talentMapVisual": {
+    "label": "Visual map",
+    "title": "Interactive Talent Map",
+    "subtitle": "Locate yourself on the map according to your current role and identify the distance to each path.",
+    "xAxis": "Reach →",
+    "yAxis": "↑ Impact",
+    "selectPosition": "Select your current position",
+    "yourPosition": "Your current position",
+    "note": "The map zones represent the typical profile of each path. Your position may be on the border between two paths."
+  },
+  "plan": {
+    "label": "Action plan",
+    "title": "Your 90-day roadmap",
+    "subtitle": "Turn your diagnostic into concrete action. Here's a month-by-month development plan based on your dominant path.",
+    "month": "Month",
+    "focus": "Focus",
+    "actions": "Actions",
+    "resource": "Recommended resource",
+    "download": "Download my plan",
+    "selectPath": "Select the path to see your plan:"
+  },
+  "gap": {
+    "label": "Gap calculator",
+    "title": "Competency gap calculator",
+    "subtitle": "How far are you from your target path? Calculate the gap in real time.",
+    "step1": "Your current role",
+    "step2": "Target path",
+    "calculate": "Calculate my gap",
+    "recalculate": "Recalculate",
+    "seeResources": "See resources to close this gap",
+    "alreadyHave": "Already have",
+    "developing": "Developing",
+    "toDevelop": "To develop",
+    "distance": "You are",
+    "distanceFrom": "away from this path",
+    "selectRole": "Select your current role",
+    "selectPath": "Select target path"
+  },
+  "stories": {
+    "label": "Real stories",
+    "title": "Career stories",
+    "subtitle": "Real people who transitioned between paths. Their journey can inspire yours.",
+    "keyCompetency": "Key competency that unlocked the change",
+    "origin": "From:",
+    "destination": "To:",
+    "viewAll": "See all stories"
+  },
+  "aiPlan": {
+    "label": "AI Plan",
+    "title": "Your personalized AI plan",
+    "subtitle": "Based on your diagnostic and gap, generate a unique development plan with the help of artificial intelligence.",
+    "completeQuizFirst": "First complete the diagnostic quiz to access your personalized plan.",
+    "goToQuiz": "Go to diagnostic",
+    "profileSummary": "Your profile",
+    "dominantPath": "Dominant path",
+    "additionalContext": "Tell me more about your situation",
+    "contextPlaceholder": "E.g.: I have 5 years of experience in finance and want to lead teams in the tech sector...",
+    "generate": "Generate my AI plan",
+    "generating": "Susana is analyzing your profile...",
+    "downloadPlan": "Download my plan",
+    "goToResources": "Go to resources",
+    "error": "We couldn't generate your plan at this time. Here's the standard plan for your path:",
+    "month": "Month",
+    "focus": "Focus",
+    "actions": "Key actions",
+    "finalAdvice": "Susana's final advice"
+  },
+  "newsletter": {
+    "label": "Newsletter",
+    "title": "Receive career insights directly in your inbox",
+    "subtitle": "One useful reflection every two weeks. No spam. Just what really matters for your development.",
+    "leadMagnet": "Free download: The complete guide to the 3 career paths",
+    "namePlaceholder": "Your name (optional)",
+    "emailPlaceholder": "your@email.com",
+    "consent": "I agree to receive content from Intentional Career Path",
+    "cta": "Subscribe and download the guide",
+    "success": "Done! Check your email to download the guide.",
+    "error": "Something went wrong. Please try again."
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Career reflections",
+    "subtitle": "Articles by Susana on leadership, talent and professional development.",
+    "readMore": "Read more",
+    "readTime": "min read",
+    "relatedPosts": "Related articles",
+    "backToBlog": "← Back to blog"
+  },
+  "about": {
+    "label": "About me",
+    "title": "I'm Susana De Jesús",
+    "headline": "I believe talent needs direction, not just motivation.",
+    "bio1": "I've spent over a decade working with professionals, leaders and HR teams helping them understand their talent and develop it with intention. I've accompanied hundreds of people at career transition moments — and what this work has taught me most is that clarity changes everything.",
+    "bio2": "I was born with a natural curiosity about people: why they do what they do, what motivates them, what holds them back. That curiosity led me to the talent world, and talent led me to create the Intentional Career Path framework — a structured way to understand the three major paths of professional development.",
+    "bio3": "Today I accompany individual professionals who want to grow with purpose, and leaders and HR teams who want to have more meaningful career conversations with their talent.",
+    "credentials": [
+      "+10 years in talent and career development",
+      "Accompanied +200 professionals in career transitions",
+      "Experience in sectors: technology, finance, retail and services",
+      "Speaker at HR Summit LATAM 2025"
+    ],
+    "philosophy": [
+      {
+        "title": "Talent without direction is wasted",
+        "desc": "It's not enough to be good at something. You need to know where you're going and why."
+      },
+      {
+        "title": "Clarity is a skill, not a gift",
+        "desc": "You can learn to know yourself better and make more intentional career decisions."
+      },
+      {
+        "title": "Development is a process, not a destination",
+        "desc": "It's not about arriving anywhere — it's about growing every day with purpose."
+      }
+    ],
+    "ctaLinkedIn": "Connect on LinkedIn",
+    "ctaContact": "Write to me"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's talk?",
+    "subtitle": "Whether for individual consulting, a team workshop or simply to share ideas.",
+    "name": "Full name",
+    "email": "Email",
+    "type": "Type of inquiry",
+    "message": "Message",
+    "consent": "I agree to receive content from Intentional Career Path",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent! I'll reply within the next 2–3 business days.",
+    "error": "Something went wrong. Please write to me directly through LinkedIn.",
+    "types": {
+      "consulting": "Individual consulting",
+      "workshop": "Team workshop",
+      "collaboration": "Collaboration",
+      "other": "Other"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must be at least 20 characters",
+      "consentRequired": "You must accept the terms to continue"
+    }
+  },
+  "footer": {
+    "tagline": "Your career, with intention.",
+    "quickLinks": "Quick links",
+    "followUs": "Follow me",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "copyright": "© 2026 Intentional Career Path · Susana De Jesús. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "seeMore": "See more",
+    "close": "Close",
+    "back": "Back"
+  }
+}
